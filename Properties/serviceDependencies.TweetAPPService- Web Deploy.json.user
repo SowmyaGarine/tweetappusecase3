@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-07-13T11:12:33.6195644Z"
+    }
+  },
+  "parameters": {
+    "TweetAPP20210604135724.resourceGroupName": {
+      "Name": "TweetAPP20210604135724.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "tweetappaccountResourceGroup"
+    },
+    "TweetAPP20210604135724.resourceName": {
+      "Name": "TweetAPP20210604135724.resourceName",
+      "Type": null,
+      "Value": "TweetAPP20210604135724"
+    },
+    "TweetAPP20210604135724.resourceGroupLocation": {
+      "Name": "TweetAPP20210604135724.resourceGroupLocation",
+      "Type": null,
+      "Value": "australiacentral"
+    },
+    "TweetAPP20210604135724.subscriptionId": {
+      "Name": "TweetAPP20210604135724.subscriptionId",
+      "Type": "subscription",
+      "Value": "33cde6b4-021e-42bf-b2a2-14536b19310c"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "33cde6b4-021e-42bf-b2a2-14536b19310c"
+    }
+  }
+}
